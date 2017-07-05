@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="76b20e41b5c64ef78cf3b1b1e7b733ca" Name="Diagram1" >
+        <EntityTypeShape EntityType="ModeloBlogging.Blog" Width="1.5" PointX="2.375" PointY="1.375" />
+        <EntityTypeShape EntityType="ModeloBlogging.Post" Width="1.5" PointX="5" PointY="1.375" />
+        <AssociationConnector Association="ModeloBlogging.BlogPost" />
+        <EntityTypeShape EntityType="ModeloBlogging.Usuario" Width="1.5" PointX="7.5" PointY="1.375" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
