@@ -1,6 +1,6 @@
 # Exemplo de Model First com Entity Framework
 
-Existem 3 tipos de abordagens quanto trabalhamos com o ORM:
+Existem 3 tipos de abordagens quando trabalhamos com o ORM:
 1. Code First (código primeiro)
 2. Model First (modelo primeiro)
 3. Database First (banco de dados primeiro)
